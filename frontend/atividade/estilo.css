@@ -1,0 +1,35 @@
+img {
+    width: 30px;
+    height: 30px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 10px #740909;
+    background-color: #bd2f2f;
+    color :#000000
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 75%;
+}
+th{
+    border-bottom: #000000 solid 1px;
+    background-color: rgb(5, 148, 17);
+    border-collapse: collapse;
+
+}
+tr:hover {
+    background-color: lightgray;
+    color: black;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f0f0f0;
+}   
+
+td:not(:nth-child(1)):not(:nth-child(2)) {
+    text-align: center;
+}
