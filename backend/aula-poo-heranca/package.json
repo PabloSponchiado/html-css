@@ -1,0 +1,21 @@
+{
+  "name": "aula-poo-heranca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pablo Sponchiado",
+  "license": "ISC",
+  "devDependencies": {
+    "require": "^2.4.20",
+    "typescript": "^5.9.2",
+    "typescript-require": "^0.3.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
